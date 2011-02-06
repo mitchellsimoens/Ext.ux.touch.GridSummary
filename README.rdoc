@@ -1,6 +1,6 @@
 == Ext.ux.touch.GridSummary
 
-A plugin to add a summary dock or row to the Ext.ux.TouchGridPanel
+A plugin to add a summary dock or row to the Ext.ux.TouchGridPanel. Will only summarize numbers
 
 = Usage
 
