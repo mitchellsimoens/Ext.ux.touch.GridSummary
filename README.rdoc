@@ -1,0 +1,23 @@
+== Ext.ux.touch.GridSummary
+
+A plugin to add a summary dock or row to the Ext.ux.TouchGridPanel
+
+Possible options:
+-type
+--dock (default)
+--row
+-summaryType
+--total (default)
+--average
+-decimalPosition
+--Any number, default is 2
+
+= Usage
+
+   {
+       xtype: 'touchgridpanel',
+       ...,
+       plugins: [new Ext.ux.touch.GridSummary()],
+       ...
+   }
+
