@@ -2,14 +2,14 @@
 
 A plugin to add a summary dock or row to the Ext.ux.TouchGridPanel
 
-Possible options:<br>
--type<br>
---dock (default)<br>
---row<br>
--summaryType<br>
---total (default)<br>
---average<br>
--decimalPosition<br>
+Possible options:\n
+-type\n
+--dock (default)\n
+--row\n
+-summaryType\n
+--total (default)\n
+--average\n
+-decimalPosition\n
 --Any number, default is 2
 
 = Usage
